@@ -15,7 +15,7 @@
                   "formatting": {}
                 },
                 {
-                  "text": "this is no longer required",
+                  "text": "this is no longer required\n",
                   "formatting": {
                     "bold": true
                   }

@@ -11,6 +11,16 @@
             {
               "content": [
                 {
+                  "text": "Choose a swag look for your account (older guides will mention that you need to start as a female character - this is no longer required). Make sure you have two step authenticator enabled. For most of the guide it is assumed you carry your GP stack.",
+                  "formatting": {
+                    "color": {
+                      "r": 0,
+                      "g": 1.
+                      "b": 0
+                    },
+                  }
+                },
+                {
                   "text": "Choose a swag look for your account (older guides will mention that you need to start as a female character - 2",
                   "formatting": {}
                 },
